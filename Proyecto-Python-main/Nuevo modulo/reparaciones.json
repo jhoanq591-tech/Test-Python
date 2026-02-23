@@ -1,0 +1,10 @@
+[
+    {
+        "id_de_herramienta": "H001",
+        "nombre": "Taladro",
+        "estado": "reparacion",
+        "fecha_de_inicio": "10/02/2026",
+        "fecha_estimada_fin": "15/02/2026",
+        "observacaiones": "Cambio de bateria"
+     }
+]

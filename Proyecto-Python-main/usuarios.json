@@ -1,0 +1,26 @@
+[
+    {
+        "id": "admin1",
+        "nombre": "Jhoan",
+        "apellido": "Quintanilla",
+        "telefono": "3001234567",
+        "direccion": "Apartamento 202",
+        "tipo": "administrador"
+    },
+    {
+        "id": "res1",
+        "nombre": "paola",
+        "apellido": "mendez",
+        "telefono": "391293213",
+        "direccion": "bga",
+        "tipo": "residente"
+    },
+    {
+        "id": "res2",
+        "nombre": "Alejandro ",
+        "apellido": "Mendez",
+        "telefono": "3012030011",
+        "direccion": "bga",
+        "tipo": "residente"
+    }   
+]

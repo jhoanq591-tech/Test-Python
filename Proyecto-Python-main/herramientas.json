@@ -1,0 +1,50 @@
+[
+    {
+        "id": "H001",
+        "nombre": "Taladro Eléctrico Makita",
+        "categoria": "Eléctrica",
+        "cantidad": "0",
+        "estado": "Nuevo",
+        "ubicacion": "Bodega A - Estante 1"
+    },
+    {
+        "id": "H002",
+        "nombre": "Martillo de Carpintero",
+        "categoria": "Manual",
+        "cantidad": "5",
+        "estado": "Usado",
+        "ubicacion": "Bodega A - Estante 2"
+    },
+    {
+        "id": "H003",
+        "nombre": "Sierra Circular",
+        "categoria": "Eléctrica",
+        "cantidad": "2",
+        "estado": "Nuevo",
+        "ubicacion": "Bodega B - Estante 1"
+    },
+    {
+        "id": "H004",
+        "nombre": "Escalera de Aluminio 6m",
+        "categoria": "Acceso",
+        "cantidad": "1",
+        "estado": "Usado",
+        "ubicacion": "Bodega C - Zona de almacenamiento"
+    },
+    {
+        "id": "H005",
+        "nombre": "Podadora de Césped",
+        "categoria": "Jardín",
+        "cantidad": "2",
+        "estado": "Nuevo",
+        "ubicacion": "Bodega C - Zona jardín"
+    },
+    {
+        "id": "PAL005",
+        "nombre": "Pala",
+        "categoria": "Manual",
+        "cantidad": "10",
+        "estado": "Usado",
+        "ubicacion": "Apto 202"
+    }
+]
